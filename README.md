@@ -16,10 +16,10 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                Data Technician Student located in Denmark <br><br>
+                In my work i mostly specialize in network/server infrastructure where i utilize mostly PowerShell and Python.<br><br>
+                As a hobby, I own and run a company called "CC Development I/S" with my buddy CandrexDEV. We sell scripts @ <a href="https://store.cc-scripts.com">store.cc-scripts.com</a><br><br>
+                You can join <a href="https://discord.cc-scripts.com">our discord</a>
             </strong>
         </p>
         <ul>
