@@ -6,11 +6,9 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Cribbe!;Data+Technician+(Infrastructure);FiveM+Developer;https%3A%2F%2Fstore.cc-scripts.com" alt="Typing SVG" /></a>
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <a href="https://www.linkedin.com/in/christian-vestergaard-steffensen/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://discord.cc-scripts.com"><img src="https://img.shields.io/discord/1087278446285168670?logo=discord&label=Discord&color=%235865F2" alt="Discord" /></a>
+        <a href="https://store.cc-scripts.com"><img src="https://img.shields.io/badge/Store-blue?logo=FiveM" alt="Store" /></a>
     </div>
     <div align=left>
         <br>
