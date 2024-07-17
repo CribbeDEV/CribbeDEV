@@ -3,7 +3,7 @@
         <img src="https://r2.fivemanage.com/pub/orc17c9i829k.png" alt="Logo" height="200">
     </div>
     <div align=center>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Cribbe!;Data+Technician+(Infrastructure);FiveM+Developer;https%3A%2F%2Fstore.cc-scripts.com" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72727&center=true&width=435&lines=Hi+there%2C+I'm+Cribbe!;Data+Technician+(Infrastructure);FiveM+Developer;https%3A%2F%2Fstore.cc-scripts.com" alt="Typing SVG" /></a>
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/christian-vestergaard-steffensen/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
