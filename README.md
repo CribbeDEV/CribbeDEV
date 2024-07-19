@@ -16,7 +16,7 @@
             <strong>
                 Data Technician Student located in Denmark <br><br>
                 In my work i specialize in network/server infrastructure where i utilize mostly PowerShell and Python.<br><br>
-                As a hobby, I own and run a company called "CC Development I/S" with my buddy <a href="https://github.com/CandrexDev">CandrexDev</a> (We usually upload everything CC related on his profile). We sell scripts @ <a href="https://store.cc-scripts.com">store.cc-scripts.com</a><br><br>
+                As a hobby, I own and run a company called "CC Development I/S" with my buddy <a href="https://github.com/CandrexDev">CandrexDev</a>. We sell scripts @ <a href="https://store.cc-scripts.com">store.cc-scripts.com</a><br><br>
                 You can join <a href="https://discord.cc-scripts.com">our discord</a>
             </strong>
         </p>
