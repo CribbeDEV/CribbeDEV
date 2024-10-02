@@ -9,7 +9,7 @@
         <a href="https://www.linkedin.com/in/christian-vestergaard-steffensen/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://discord.cc-scripts.com"><img src="https://img.shields.io/discord/1087278446285168670?logo=discord&label=Discord&color=%235865F2" alt="Discord" /></a>
         <a href="https://store.cc-scripts.com"><img src="https://img.shields.io/badge/Store-blue?logo=FiveM" alt="Store" /></a>
-        <a href="https://ko-fi.com/cribbe"><img src="[https://img.shields.io/badge/Store-blue?logo=FiveM](https://img.shields.io/badge/Buy_me_a_beer-He?logo=ko-fi&color=c31215)" alt="Donate" /></a>
+        <a href="https://ko-fi.com/cribbe"><img src="[https://img.shields.io/badge/Store-blue?logo=FiveM](https://img.shields.io/badge/Buy_me_a_beer-He?logo=ko-fi\&color=c31215)" alt="Donate" /></a>
     </div>
     <div align=left>
         <br>
