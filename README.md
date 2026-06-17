@@ -1,9 +1,6 @@
 <div>
     <div align=center>
-        <img src="./Cribbe Banner.png">
-    </div>
-    <div align=center>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Cribbe!;Network+Engineer+(Data-Technician);Co-Founder+of+CC+Scripts;Visit+us+%40+cc-scripts.com" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Cribbe!;Network+Engineer+(Data-Technician);Co-Founder+of+CC+Scripts;Visit+us+%40+cc-scripts.com" alt="Typing SVG" /></a>
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/christian-vestergaard-steffensen/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
